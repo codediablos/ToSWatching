@@ -3,14 +3,13 @@
         "appName": "ToSWatching",
         "appDescription": "ToS Watching",
         "packageName": "com.codediablos.tos",
-        "versionName": "7.52",
-        "versionCode": "146",
+        "versionName": "7.53",
+        "versionCode": "147",
         "forceUpdate": false,
         "autoUpdate": false,
-        "apkUrl": "https://github.com/codediablos/ToSWatching/releases/download/v7.52/ToSWatching.apk",
+        "apkUrl": "https://github.com/codediablos/ToSWatching/releases/download/v7.53/ToSWatching.apk",
         "updateTips": {
-                "default": "Update Infomation: Change to Material Design",
-                "zh": "更新資訊: 更新 Material Design"
+                "default": "Fix bug"
         }
     }
 }
