@@ -3,11 +3,11 @@
         "appName": "ToSWatching",
         "appDescription": "ToS Watching",
         "packageName": "com.codediablos.tos",
-        "versionName": "8.10",
-        "versionCode": "151",
+        "versionName": "8.11",
+        "versionCode": "152",
         "forceUpdate": false,
         "autoUpdate": false,
-        "apkUrl": "https://github.com/codediablos/ToSWatching/releases/download/v8.10/app-release.apk",
+        "apkUrl": "https://github.com/codediablos/ToSWatching/releases/download/v8.11/app-release.apk",
         "updateTips": {
                 "default": ""
         }
