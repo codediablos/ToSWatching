@@ -3,11 +3,11 @@
         "appName": "ToSWatching",
         "appDescription": "ToS Watching",
         "packageName": "com.codediablos.tos",
-        "versionName": "9.32",
-        "versionCode": "169",
+        "versionName": "10.00",
+        "versionCode": "170",
         "forceUpdate": false,
         "autoUpdate": false,
-        "apkUrl": "https://github.com/codediablos/ToSWatching/releases/download/v9.32/app-release.apk",
+        "apkUrl": "https://github.com/codediablos/ToSWatching/releases/download/v10.00/app-release.apk",
         "updateTips": {
                 "default": ""
         }
